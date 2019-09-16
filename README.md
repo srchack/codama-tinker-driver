@@ -72,3 +72,8 @@ pcm.!default {
 	playback.pcm "VocalFusion"
 }
 ```
+
+## testing version
+Tinker OS 2.0.8, 2.0.10, 2.0.11beta
+Tinker Board S
+		
