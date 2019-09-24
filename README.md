@@ -73,6 +73,14 @@ pcm.!default {
 }
 ```
 
+Add 3 line in /etc/rc.local
+This is alsa control initialize.
+```
+# Run Alsa at startup so that alsamixer configures
+arecord -d 1 > /dev/null 2>&1
+aplay dummy > /dev/null 2>&1
+```
+
 ## testing version
 Tinker OS 2.0.8, 2.0.10, 2.0.11beta
 Tinker Board S
