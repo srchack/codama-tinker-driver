@@ -82,6 +82,7 @@ aplay dummy > /dev/null 2>&1
 ```
 
 ## testing version
-Tinker OS 2.0.8, 2.0.10, 2.0.11beta
+Tinker OS 2.0.8, 2.0.10, 2.0.11, 2.1.11, 2.1.16
+
 Tinker Board S
 		
