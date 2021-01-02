@@ -106,6 +106,6 @@ static struct platform_driver codama_driver = {
 
 module_platform_driver(codama_driver);
 
-MODULE_DESCRIPTION("Simple I2S Hifiberry & ICS43432 MEMS Codec");
-MODULE_AUTHOR("Greg Miell <greg@gothack.ninja>");
+MODULE_DESCRIPTION("AoSC Driver for codama Mic Array Codec");
+MODULE_AUTHOR("Yuhei OKAWA <tochiro.srchack@gmail.com>");
 MODULE_LICENSE("GPL v2");
